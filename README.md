@@ -4,4 +4,4 @@ This hooks the graphics kernel subsystem to allow manipulation of the screen buf
 
 # Example usage
 
-The player boxes in [this](https://vmcall.blog/assets/img/rainbow.mp4) video is drawn by using that hook.
+The player boxes in [this](https://secret.club/assets/img/rainbow.mp4) video is drawn by using that hook.
